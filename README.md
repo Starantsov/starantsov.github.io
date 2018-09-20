@@ -1,2 +1,0 @@
-# starantsov.github.io
-Starantsov
