@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "REQC73J4XK.sbertech.UniversalLinks",
-                "paths": ["/profile.html/*"]
+                "paths": ["NOT /", "/profile.html/*"]
             }
         ]
     }
