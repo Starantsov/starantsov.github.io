@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "REQC73J4XK.ru.sberbank.hrplatform.dev",
-                "paths": ["*"]
+                "appID": "REQC73J4XK.sbertech.UniversalLinks",
+                "paths": ["*", "/"]
             }
         ]
     }
